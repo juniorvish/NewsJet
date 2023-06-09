@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsJet</string>
+    <string name="home">Home</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="profile">Profile</string>
+    <string name="news_details">News Details</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="error_loading_news">Error loading news</string>
+    <string name="error_loading_bookmarks">Error loading bookmarks</string>
+</resources>
